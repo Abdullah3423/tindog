@@ -116,13 +116,14 @@ background-color: #fff;
 .pricing-column{
   padding: 2% 3%;
 }
-@media screen and(max-width:767px) {
+@media screen and(max-width:1028px) {
   #Title{
     text-align: center;
   }
   .image-title{
     position: static;
     transform: rotate(0);
+    
 
   }
 

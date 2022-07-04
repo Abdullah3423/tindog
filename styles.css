@@ -116,7 +116,7 @@ background-color: #fff;
 .pricing-column{
   padding: 2% 3%;
 }
-@media(max-width:1028px) {
+@media screen and(max-width:767px) {
   #Title{
     text-align: center;
   }
@@ -145,4 +145,7 @@ h3{
 }
 .social-icon{
   padding: 20px 10px;
+}
+.nav-link{
+  color:#000;
 }

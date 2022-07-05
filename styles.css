@@ -123,13 +123,13 @@ background-color: #fff;
   .image-title{
     position: static;
     transform: rotate(0);
-    .social-icon{
+    .social-icon
       size:3rem;}
     
 
   }
 
-}
+
 #cta{
   background-color: #ff4c68;
     text-align: center;
